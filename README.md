@@ -6,7 +6,7 @@ Web Development: Whether it's front-end magic with HTML/CSS/JavaScript or diving
 Learning and Sharing: I'm always eager to learn new technologies and share my insights with the community.
 
 💼 Currently:
-I am a computer science student who is persuing btech from tier-2 Autonomous college affiliated to Svitribhai pune university. 
+I am a computer science student who is persuing btech from tier-2 Autonomous college affiliated to pune university. 
 I'm on a path to deepen my understanding of algorithms, data structures, and software engineering principles through my computer science degree.
 Continuously learning about modern web technologies and best practices in web development.
 
