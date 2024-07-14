@@ -16,6 +16,6 @@ To collaborate with fellow developers who share my passion and create impactful 
 To share my knowledge and learn from the community through blogs and workshops.
 
 📫 Lets connect:
-LinkedIn: Connect with me
+LinkedIn: Connect with me https://www.linkedin.com/in/saksham-kalagi-786738317/
 Portfolio: Check out my projects on my portfolio website.
 Let's code the future together! 💻✨
