@@ -1,4 +1,4 @@
-👋 Hey there! I'm Saksham, a computer science student who's really passionate about web development, especially using Three.js to create awesome 3D experiences online. 🌐✨
+👋 Hey there! I'm Saksham, a computer science student who's really passionate about web development, especially using mern stack to create awesome experiences online. 🌐✨
 
 🎨 Here's what I'm all about:
 Three.js Wizardry: I love diving into Three.js to craft stunning visuals and captivating animations.
