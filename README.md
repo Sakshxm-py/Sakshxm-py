@@ -1,9 +1,9 @@
-👋 Hey there! I'm Saksham, a computer science student who's really passionate about web development, especially using mern stack to create awesome experiences online. 🌐✨
+👋 Hey there! I'm Saksham, a computer science student who's really passionate about DSA and web development, especially using mern stack to create awesome experiences online. 🌐✨
 
 🎨 Here's what I'm all about:
-- Three.js Wizardry: I love diving into Three.js to craft stunning visuals and captivating animations.
+- Currently diving deep into full-stack development with MERN stack & DSA
 - Web Development: Whether it's front-end magic with HTML/CSS/JavaScript or diving into back-end adventures with Node.js, I enjoy building full-stack solutions.
-- Learning and Sharing: I'm always eager to learn new technologies and share my insights with the community.
+- Interested in algorithms, problem-solving, and creating efficient software solutions.
 
 💼 Currently:
 - I am a computer science student who is persuing btech from tier-2 Autonomous college affiliated to pune university. 
