@@ -16,6 +16,7 @@
 - To share my knowledge and learn from the community through blogs and workshops.
 
 📫 Lets connect:
-- LinkedIn: https://www.linkedin.com/in/saksham-kalagi-786738317/
+- LinkedIn : https://www.linkedin.com/in/saksham-kalagi-786738317/
 - Twitter : https://x.com/sakshxmkalagi
+- Leetchode : https://leetcode.com/u/sakshxm-23/
 - Let's code the future together! 💻✨
